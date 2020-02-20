@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:anne@farrell.work'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=N0Rw3c4AAAAJ
@@ -66,6 +66,6 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 Anne Farrell is a PhD student in her fifth year at the [University of Chicago] (https://www.cs.uchicago.edu/). Her research interests include self-aware computing, real-time scheduling, and resource management in mobile and embedded systems. Her advisor is Prof. [Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/).
