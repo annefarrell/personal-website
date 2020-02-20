@@ -93,11 +93,11 @@ address = {street = "5730 South Ellis Avenue", city = "Chicago", region = "IL", 
 coordinates = {latitude = "41.790552", longitude = "-87.602859"}
 
 # Directions for visitors to locate you.
-directions = "John Crerar Library Rm 395"
+directions = "John Crerar Library, Room 395"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 2:30-3:30 in CSIL 5"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
