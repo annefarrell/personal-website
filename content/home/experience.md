@@ -18,27 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "DSAC Representative"
+  company = "University of Chicago"
+  company_url = "https://physical-sciences.uchicago.edu/page/resources-student-input"
+  location = "Chicago, IL"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Served as a liason between computer science students and the Dean of the Physical Sciences Division
+  """
   
-  * Analysing
-  * Modelling
-  * Deploying
+[[experience]]
+  title = "Android System Intern"
+  company = "Huawei Technologies"
+  company_url = ""
+  location = "Santa Clara, CA"
+  date_start = "2016-09-01"
+  date_end = "2016-12-01"
+  description = """
+  Conducted research on reducing energy consumption on Android
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Volunteer"
+  company = "Artifice"
+  company_url = "http://www.artificechicago.org/"
+  location = "Chicago, IL"
+  date_start = "2015-09-01"
+  date_end = "2016-06-01"
+  description = """
+  Helped children build and program Arduino-powered robots
+  """
+
+[[experience]]
+  title = "Physical Sciences Tutor"
+  company = "University of Wisconsin - Green Bay"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Green Bay, WI"
+  date_start = "2011-01-01"
+  date_end = "2013-12-31"
+  description = """Assisted students with math, physics, and computer science."""
 
 +++
