@@ -68,4 +68,4 @@ email: ""
 #- Visitors
 ---
 
-Anne Farrell is a PhD student in her fifth year at the [University of Chicago] (https://www.cs.uchicago.edu/). Her research interests include self-aware computing, real-time scheduling, and resource management in mobile and embedded systems. Her advisor is Prof. [Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/).
+Anne Farrell is a PhD student in her fifth year at the [University of Chicago](https://www.cs.uchicago.edu/). Her research interests include self-aware computing, real-time scheduling, and resource management in mobile and embedded systems. Her advisor is Prof. [Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/).
